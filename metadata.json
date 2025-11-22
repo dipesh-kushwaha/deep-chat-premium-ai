@@ -1,0 +1,7 @@
+{
+  "name": "Deep Chat - Premium AI",
+  "description": "An advanced, professional, and dynamic AI chat application featuring real-time voice interaction and premium styling. Created by DIPESH MAHATO KOIRI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
