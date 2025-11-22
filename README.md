@@ -2,8 +2,6 @@
 An advanced, multimodal AI assistant built with React and Google Gemini 2.5. Features real-time bi-directional voice conversation (Live API), image analysis, customizable personas, and a premium glassmorphism UI.
 # Deep Chat - Premium AI Assistant ⚡️
 
-![Deep Chat Banner](https://via.placeholder.com/1200x600/0f172a/6366f1?text=Deep+Chat+-+Premium+AI)
-
 **Deep Chat** is a state-of-the-art AI application designed to provide a premium conversational experience. Built by **Dipesh Mahato Koiri**, this application leverages the power of Google's latest **Gemini 2.5** models to offer real-time voice interaction, multimodal image understanding, and intelligent text generation wrapped in a modern, responsive glassmorphism interface.
 
 ## 🚀 Key Features
